@@ -1,0 +1,8 @@
+.fitler {
+  display: flex;
+  align-items: center;
+}
+
+.input-search {
+  margin-right: 40px;
+}
