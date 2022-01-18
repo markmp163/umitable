@@ -1,0 +1,23 @@
+.logo{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 60px;
+  align-items: center;
+}
+
+.logo > h2{
+  position: absolute;
+  color: white;
+  padding-top: 10px;
+  transition: 0.2s linear;
+  right: 20px;
+}
+
+.logo > img{
+  transition: 0.2s linear;
+  position: absolute;
+  padding: 10px;
+  left: 11px;
+  z-index: 10;
+}
